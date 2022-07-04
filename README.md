@@ -1,4 +1,4 @@
-## Care and Social Support Networks
+# Care and Social Support Networks
 
 Repository about postdoctoral research leads by [Francisca Ortiz Ruiz](https://franciscaortizruizcom.wordpress.com) on Care and Social Support Networks. 
 
@@ -18,14 +18,16 @@ Repository about postdoctoral research leads by [Francisca Ortiz Ruiz](https://f
 - Evaluate the relevance of the time elapsed in the maintenance of care and support networks for the older people through network modeling.
 
 **Abstract research**:
-In recent years, Chile has become one of the countries with the highest replacement rate in Latin America, especially if we consider the southern cone (Pérez and Sierra, 2009; ECLAC, 2015). In this context, older people find themselves under a neoliberal pension regime, which has been shown to increase long-term structural inequities (Wisensale, 2003, Sojo, 2014). In addition to this, there are previous studies that highlight that, to this day, family ties still persist at the state level as the caregivers and fundamental supports of the elderly (Ortiz and Gonzálvez, 2107). In this context, the supportive care that older people receive and deliver becomes increasingly relevant.
-This research seeks to understand the care and support networks of the elderly in Santiago de Chile. More specifically, this study will focus on identifying and describing care and support networks for the elderly, with an emphasis on gender and age inequalities. Second, typologies of care and support networks for the elderly will be developed, and how they vary over time will be explored. Finally, the relevance of the time elapsed in the maintenance of care and support networks for the elderly will be evaluated. It is planned to carry out field work in Santiago de Chile, collecting a variety of data such as documents, surveys, interviews and a generator of names of care and support networks. The methodological approach is based on mixed methods with a complementarity of different data collected and analyzed.
 
-# Current state of the research (last update 05.07.2022):
+In recent years, Chile has become one of the countries with the highest replacement rate in Latin America, especially if we consider the southern cone (Pérez and Sierra, 2009; ECLAC, 2015). In this context, older people find themselves under a neoliberal pension regime, which has been shown to increase long-term structural inequities (Wisensale, 2003, Sojo, 2014). In addition to this, there are previous studies that highlight that, to this day, family ties still persist at the state level as the caregivers and fundamental supports of the older people (Ortiz and Gonzálvez, 2107). In this context, the supportive care that older people receive and deliver becomes increasingly relevant.
+
+This research seeks to understand the care and support networks of the older people in Santiago de Chile. More specifically, this study will focus on identifying and describing care and support networks for the older people, with an emphasis on gender and age inequalities. Second, typologies of care and support networks for the older people will be developed, and how they vary over time will be explored. Finally, the relevance of the time elapsed in the maintenance of care and support networks for the older people will be evaluated. It is planned to carry out field work in Santiago de Chile, collecting a variety of data such as documents, surveys, interviews and a generator of names of care and support networks. The methodological approach is based on mixed methods with a complementarity of different data collected and analyzed.
+
+## Current state of the research (last update 05.07.2022):
 
 **We just started the second wave collection!** The data collection during May was alrready complete, which correspond with the first wave of the project. 
 
-# Products / outcomes:
+## Products / outcomes:
 
 After finalizing the fieldwork, it will be published in this repository: 
 1. A selection of some answers anonymized. 
