@@ -5,9 +5,11 @@ Repository about postdoctoral research leads by [Francisca Ortiz Ruiz](https://f
 **Title of Research**: "Vivir cuidando: Usando métodos mixtos para comprender las redes de cuidados y soporte de personas mayores" ("Living taking care: using mixed methods to understand care and social support networks of older people"). 
 
 **Institutional affiliation**: Millennium Institute for Caregiving Research MICARE.
+
 **Years of research**: November 2021 - Octuber 2023. 
 
 **Ethics**: Approved by Ethical Comitte P. Universidad Católica de Chile (May 2022). 
+
 **Fieldwork team**: Trinidad Cereceda, Natacha Leroy, and Ignacia Luco. 
 
 **Main objetive**: Understand care and social support networks of the older people in Santiago de Chile. More specifically, identifying and describing the care and support networks for them, with an emphasis on gender and age diferences.
